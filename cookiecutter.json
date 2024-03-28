@@ -12,5 +12,15 @@
   "add_pyup_badge": "n",
   "command_line_interface": ["Click", "Argparse", "No command-line interface"],
   "create_author_file": "y",
-  "open_source_license": ["MIT license", "BSD license", "ISC license", "Apache Software License 2.0", "GNU General Public License v3", "Not open source"]
+  "open_source_license": ["MIT license", "BSD license", "ISC license", "Apache Software License 2.0", "GNU General Public License v3", "Not open source"],
+  "_cortex_field_configurations": {
+    "full_name": {
+      "description": "The author's full name.",
+      "use_default": true
+    },
+    "email": {
+      "description": "The author's email address.",
+      "use_default": true
+    }
+  }
 }
