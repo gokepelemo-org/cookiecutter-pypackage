@@ -37,7 +37,7 @@
   "_@cortex_inputs": {
     "git": {
       "repository": {
-        "repoName": "{{ cookiecutter.github_username }}"
+        "repoName": "test"
       }
     }
   }
